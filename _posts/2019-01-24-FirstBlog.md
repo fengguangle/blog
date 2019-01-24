@@ -1,7 +1,7 @@
----
+ï»¿---
 layout:            post
-title:             "ÄãºÃ"
-menutitle:         "ÄãºÃ"
+title:             "ä½ å¥½"
+menutitle:         "ä½ å¥½"
 category:          first
 author:            jwillmer
 tags:              first
@@ -9,4 +9,4 @@ language:          ZH
 ---
 
 hello!
-#ÄãºÃ
+#ä½ å¥½
