@@ -1,10 +1,11 @@
 ---
 layout:            post
-title:             "我的第一篇博客"
-menutitle:         "第一篇博客"
-category:          记事本
+title:             "first"
+menutitle:         "first"
+category:          first
 author:            jwillmer
-tags:              记事
+tags:              first
+language:          ZH
 ---
 
 hello!
