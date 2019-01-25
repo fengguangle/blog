@@ -1,10 +1,10 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      dean                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Dean Feng"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
+  picture:      /assets/dean_avatar.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Germany                                       # OPTIONAL: used to display location of the author
+  location:     China                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
@@ -23,6 +23,13 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
+dean:
+  initial:      dean
+  name:         "Dean Feng"        
+  picture:      /assets/dean_avatar.jpg  
+  bio:          Thank Different 
+  location:     China  
+  github:       fengguangle
 jdecent:
   initial:      jdecent
   name:         "Jekyll Decent"       

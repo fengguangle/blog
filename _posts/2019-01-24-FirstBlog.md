@@ -3,7 +3,7 @@ layout:            post
 title:             "你好"
 menutitle:         "你好"
 category:          first
-author:            jwillmer
+author:            dean
 tags:              first
 language:          ZH
 ---
