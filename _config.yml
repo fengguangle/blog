@@ -15,7 +15,7 @@ language:         "en" # default language of the blog. Language codes: http://ww
 baseurl:          "/blog" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
-cover:            /assets/Space-Fullbleed-L.jpg
+cover:            /assets/galaxy-1.jpg
 disqus_shortname: "blog"
 
 # Build settings
