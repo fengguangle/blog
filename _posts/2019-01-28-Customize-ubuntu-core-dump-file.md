@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "如何自定义Ubuntu的CoreDump文件"
-menutitle:         "从这里开始"
+menutitle:         "如何自定义Ubuntu的CoreDump文件"
 category:          Linux
 author:            dean
 tags:              coredump ubuntu
