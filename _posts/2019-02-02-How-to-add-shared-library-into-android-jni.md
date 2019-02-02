@@ -20,7 +20,7 @@ add_library(libutil SHARED IMPORTED)
 set_target_properties(libutil PROPERTIES IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/libs/libutil/lib/${ANDROID_ABI}/libutil.so)
 ...
 target_link_libraries( ...
-                       jpeg-turbo1500
+                       libutil
                         ...)
 ```
 #### 3.编辑Gradle文件
